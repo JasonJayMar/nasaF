@@ -5,7 +5,4 @@ of facilitys in the US while also getting the temp of each location
 it was a challenege to do since I kept getting the same facilitys multiple times
 but after setting it into a list and other things I got it to work
 
-## Run
-1. install node
 
-2. node server.js
